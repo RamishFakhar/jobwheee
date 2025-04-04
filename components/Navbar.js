@@ -37,7 +37,7 @@ const Navbar = () => {
             <div className="relative flex items-center">
               <img src="/images/vector 214.png" alt="vector" className="h-6 sm:h-8 mr-1 sm:mr-2" />
               <span className="text-white font-bold text-xl sm:text-2xl tracking-tight">
-                Job<span className="text-[#D1E74A]">whee</span>
+                ob<span className="text-[#D1E74A]">whee</span>
               </span>
               <div className="absolute left-0 bottom-0">
                 <img src="/images/dot.png" alt="dot" className="h-5 w-5 absolute -left-0.5 sm:-left-0.5 bottom-1 sm:bottom-1" />
